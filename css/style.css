@@ -1,11 +1,11 @@
 @font-face {
-    src: url('../fonts/Lato-Regular.ttf');
-    font-family: 'Lato-Regular';  
+    src: url('../fonts/ElMessiri-Bold.ttf');
+    font-family: 'ElMessiri-Bold';  
 }
 
 @font-face {
-    src: url('../fonts/LibreBaskerville-Bold.ttf');
-    font-family: 'LibreBaskerville-Bold';  
+    src: url('../fonts/SourceSansPro-Regular.ttf');
+    font-family: 'SourceSansPro-Regular';  
 }
 
 header {
@@ -23,7 +23,7 @@ header {
 .header-link {
     margin: 30px;
     text-decoration: none;
-    font-family: 'Lato-Regular', Helvetica, Arial, serif;
+    font-family: 'SourceSansPro-Regular', Helvetica, Arial, serif;
 }
 
 .link {
@@ -48,7 +48,7 @@ body {
     color:#ece24a;
     margin-bottom: 40px;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
-    font-family: 'LibreBaskerville-Bold', Helvetica, Arial, serif;
+    font-family: 'ElMessiri-Bold', Helvetica, Arial, serif;
 }
 
 .img-wrapper {
@@ -84,7 +84,7 @@ h2 {
     line-height: 40px;
     color:#e0d535;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
-    font-family: 'LibreBaskerville-Bold', Helvetica, Arial, serif;
+    font-family: 'ElMessiri-Bold', Helvetica, Arial, serif;
 }   
 
 h2::before {
@@ -105,7 +105,7 @@ p {
     text-align: center;
     font-size: 18px;
     color: rgb(97, 93, 93);
-    font-family: 'Lato-Regular', Helvetica, Arial, serif;
+    font-family: 'SourceSansPro-Regular', Helvetica, Arial, serif;
 }
 
 ul {
@@ -113,6 +113,7 @@ ul {
     text-align: center;
     list-style-type: none;
     color: rgb(97, 93, 93);
+    font-family: 'SourceSansPro-Regular', Helvetica, Arial, serif;
 }
 button {
     cursor: pointer;
